@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "Hello, world!"
+#gnome-terminal -- sh -c 'cd /mnt/d/Liggghts/sfery/multicore/POST1 && pwd && python3 pierwszak.py && read DUMMY'
+gnome-terminal -- sh -c 'cd /mnt/d/Liggghts/sfery/multicore/POST2 && pwd && python3 pierwszak.py && read DUMMY'
+gnome-terminal -- sh -c 'cd /mnt/d/Liggghts/sfery/multicore/POST3 && pwd && python3 pierwszak.py && read DUMMY'
+gnome-terminal -- sh -c 'cd /mnt/d/Liggghts/sfery/multicore/POST4 && pwd && python3 pierwszak.py && read DUMMY'
+gnome-terminal -- sh -c 'cd /mnt/d/Liggghts/sfery/multicore/POST5 && pwd && python3 pierwszak.py && read DUMMY'
+gnome-terminal -- sh -c 'cd /mnt/d/Liggghts/sfery/multicore/POST6 && pwd && python3 pierwszak.py && read DUMMY'
